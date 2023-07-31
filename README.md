@@ -1,1 +1,1 @@
-<div align="center">Titanic Survivors</div>
+<div align="center"><h1></h1>Titanic Survivors</div>
