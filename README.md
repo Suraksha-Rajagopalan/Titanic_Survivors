@@ -1,1 +1,1 @@
-# Titanic Survivors
+<div align="center">Titanic Survivors
